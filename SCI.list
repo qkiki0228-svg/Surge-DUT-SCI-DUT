@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,plos.org
+DOMAIN-SUFFIX,scifinder-n.cas.org
 
 # > PubMed / NCBI
 DOMAIN-SUFFIX,nih.gov
